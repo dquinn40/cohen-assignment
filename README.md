@@ -2,7 +2,7 @@
 ## Running the Application
 [Node](https://nodejs.org/en/) must be installed on your machine.
 
-First, install all the dependencies
+Install dependencies
 
 ```npm i```
 
